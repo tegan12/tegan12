@@ -26,7 +26,7 @@ problems — I automate them. Currently studying for **Microsoft AZ-900 & MS-900
   that automate everyday IT support: health reports, AD checks, inventory, cleanup, monitoring.
 
 ### 📫 Reach me
-- 💼 LinkedIn: **linkedin.com/in/tegan-w-796847299**
-- 📧 tegan.lw27@gmail.com
+- 💼 LinkedIn: **linkedin.com/in/tegan-wilton**
+
 
 > _This README lives in a repo named exactly after my GitHub username, so it shows on my profile._
