@@ -18,15 +18,15 @@ problems — I automate them. Currently studying for **Microsoft AZ-900 & MS-900
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 📌 Featured projects
-- 🖥️ **[ad-home-lab](https://github.com/<your-username>/ad-home-lab)** — a Windows domain built from
+- 🖥️ **[ad-home-lab](https://github.com/tegan12/ad-home-lab)** — a Windows domain built from
   scratch (Active Directory, DNS, DHCP, Group Policy) with **PowerShell** user-onboarding automation.
-- 🎫 **[helpdesk-ticketing](https://github.com/<your-username>/helpdesk-ticketing)** — a self-hosted
+- 🎫 **[helpdesk-ticketing](https://github.com/tegan12/helpdesk-ticketing)** — a self-hosted
   **osTicket** service desk run through a proper **ITIL** incident workflow (priority matrix + SLAs).
-- ⚙️ **[powershell-toolkit](https://github.com/<your-username>/powershell-toolkit)** — handy scripts
+- ⚙️ **[powershell-toolkit](https://github.com/tegan12/powershell-toolkit)** — handy scripts
   that automate everyday IT support: health reports, AD checks, inventory, cleanup, monitoring.
 
 ### 📫 Reach me
-- 💼 LinkedIn: **linkedin.com/in/tegan-wilton**
+- 💼 LinkedIn: **linkedin.com/in/tegan-w-796847299**
 - 📧 tegan.lw27@gmail.com
 
 > _This README lives in a repo named exactly after my GitHub username, so it shows on my profile._
