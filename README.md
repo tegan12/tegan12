@@ -35,6 +35,7 @@ I don't just fix problems — I **automate** them. Right to work: **Stamp 1G** (
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&logoColor=white)
 ![Microsoft Entra](https://img.shields.io/badge/Microsoft_Entra_ID-0067B8?logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/TCP%2FIP%20·%20DNS%20·%20DHCP-3b5bdb?logoColor=white)
 
@@ -66,6 +67,9 @@ Each repo has a full write-up, working automation, and **real screenshots of it 
 - ⚙️ **[powershell-toolkit](https://github.com/tegan12/powershell-toolkit)** — practical **IT-support
   automation**: system health reports, AD password-expiry alerts, software inventory, safe cleanup and
   endpoint checks.
+- ☁️ **[m365-intune-lab](https://github.com/tegan12/m365-intune-lab)** — **cloud endpoint management**:
+  enrolled a Windows 11 device in **Microsoft Intune**, then pushed **compliance & configuration
+  baselines** and managed **Entra ID** users — all **as code** with the **Microsoft Graph PowerShell** SDK.
 
 🧪 Also built a live **AI exam-grading web app** on **Cloudflare Workers + Claude API** →
 **[en1090-study-site.pages.dev](https://en1090-study-site.pages.dev)**
