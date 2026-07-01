@@ -74,11 +74,6 @@ Each repo has a full write-up, working automation, and **real screenshots of it 
 
 <div align="center">
 
-### 📊 GitHub
-
-![Tegan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tegan12&show_icons=true&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tegan12&layout=compact&hide_border=true&langs_count=8)
 
 📍 Open to **hybrid / remote** roles across Ireland · **[Connect on LinkedIn »](https://linkedin.com/in/tegan-wilton)**
 
